@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\bin\Debug\Unipro_MallManagement.exe.config
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\bin\Debug\Unipro_MallManagement.exe
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\bin\Debug\Unipro_MallManagement.pdb
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\obj\Debug\Unipro_MallManagement.UploadToMall.resources
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\obj\Debug\Unipro_MallManagement.Properties.Resources.resources
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\obj\Debug\Unipro_MallManagement.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\obj\Debug\Unipro_MallManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\obj\Debug\Unipro_MallManagement.csproj.CopyComplete
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\obj\Debug\Unipro_MallManagement.exe
+C:\Users\user\Desktop\Shafa\Project\Unipro_MallManagement\obj\Debug\Unipro_MallManagement.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FcUagqcc8WU2rkFsgAETP9HIOKpd3Jc5hwAODID1NAoGM4I+Ar1Y1YgdA8q4SVE4yQEKFNQJtTWxVYGqp+pjpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Shafa\\Project\\Unipro_MallManagement\\Unipro_MallManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\renci.sshnet.async\\1.4.0\\renci.sshnet.async.1.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\ssh.net\\2016.1.0\\ssh.net.2016.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

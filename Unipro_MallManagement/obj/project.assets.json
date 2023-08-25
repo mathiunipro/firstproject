@@ -1,0 +1,209 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {
+      "Renci.SshNet.Async/1.4.0": {
+        "type": "package",
+        "dependencies": {
+          "SSH.NET": "2016.1.0"
+        },
+        "compile": {
+          "lib/net40/Renci.SshNet.Async.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.Async.dll": {}
+        }
+      },
+      "SSH.NET/2016.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Renci.SshNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win": {
+      "Renci.SshNet.Async/1.4.0": {
+        "type": "package",
+        "dependencies": {
+          "SSH.NET": "2016.1.0"
+        },
+        "compile": {
+          "lib/net40/Renci.SshNet.Async.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.Async.dll": {}
+        }
+      },
+      "SSH.NET/2016.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Renci.SshNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win-x64": {
+      "Renci.SshNet.Async/1.4.0": {
+        "type": "package",
+        "dependencies": {
+          "SSH.NET": "2016.1.0"
+        },
+        "compile": {
+          "lib/net40/Renci.SshNet.Async.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.Async.dll": {}
+        }
+      },
+      "SSH.NET/2016.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Renci.SshNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win-x86": {
+      "Renci.SshNet.Async/1.4.0": {
+        "type": "package",
+        "dependencies": {
+          "SSH.NET": "2016.1.0"
+        },
+        "compile": {
+          "lib/net40/Renci.SshNet.Async.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.Async.dll": {}
+        }
+      },
+      "SSH.NET/2016.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Renci.SshNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Renci.SshNet.Async/1.4.0": {
+      "sha512": "wDuIHDvseM/SX0UR/sc30DcKXLIhqZRKjzBdI1mm6YiJSdb0V0kQXSiyAqzXtFkCrIxPRtpH7As5DKqbyWPsEw==",
+      "type": "package",
+      "path": "renci.sshnet.async/1.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Renci.SshNet.Async.dll",
+        "lib/net40/Renci.SshNet.Async.xml",
+        "lib/netstandard1.3/Renci.SshNet.Async.dll",
+        "lib/netstandard1.3/Renci.SshNet.Async.xml",
+        "lib/uap10.0/Renci.SshNet.Async.dll",
+        "lib/uap10.0/Renci.SshNet.Async.pri",
+        "lib/uap10.0/Renci.SshNet.Async.xml",
+        "renci.sshnet.async.1.4.0.nupkg.sha512",
+        "renci.sshnet.async.nuspec"
+      ]
+    },
+    "SSH.NET/2016.1.0": {
+      "sha512": "b0fcFFOE044KNRhq1uGujmK04ab+OzA9xARdeVCoZrY6I4D1IIaR6dn6qBIa+er4bJapGBhznDitwcRQpSRC0w==",
+      "type": "package",
+      "path": "ssh.net/2016.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Renci.SshNet.dll",
+        "lib/net35/Renci.SshNet.xml",
+        "lib/net40/Renci.SshNet.dll",
+        "lib/net40/Renci.SshNet.xml",
+        "lib/netstandard1.3/Renci.SshNet.dll",
+        "lib/netstandard1.3/Renci.SshNet.xml",
+        "lib/sl4/Renci.SshNet.dll",
+        "lib/sl4/Renci.SshNet.xml",
+        "lib/sl5/Renci.SshNet.dll",
+        "lib/sl5/Renci.SshNet.xml",
+        "lib/uap10/Renci.SshNet.dll",
+        "lib/uap10/Renci.SshNet.xml",
+        "lib/wp71/Renci.SshNet.dll",
+        "lib/wp71/Renci.SshNet.xml",
+        "lib/wp8/Renci.SshNet.dll",
+        "lib/wp8/Renci.SshNet.xml",
+        "ssh.net.2016.1.0.nupkg.sha512",
+        "ssh.net.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": [
+      "Renci.SshNet.Async >= 1.4.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Shafa\\Project\\Unipro_MallManagement\\Unipro_MallManagement.csproj",
+      "projectName": "Unipro_MallManagement",
+      "projectPath": "C:\\Users\\user\\Desktop\\Shafa\\Project\\Unipro_MallManagement\\Unipro_MallManagement.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Shafa\\Project\\Unipro_MallManagement\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net45": {
+        "dependencies": {
+          "Renci.SshNet.Async": {
+            "target": "Package",
+            "version": "[1.4.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
